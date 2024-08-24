@@ -1,0 +1,3 @@
+#+title: Tek - A Cryptic Crossword Solver
+Tek is named after the character Tek Knight from the TV show, /The Boys/.
+Much like Tek Knight, tek has super-human deduction skills (at least when it comes to solving cryptics)
